@@ -4,22 +4,21 @@ html{
 h1{
   font-family:Helvetica;
   font-size: 70px;
-  color: White;
   font-weight: bold;
+  color: white;
 }
 h2{
   font-family: Helvetica;
   font-size: 32px;
-  font-weight: bold;
+  font-weight: 800;
 }
 h3{
   font-family:Helvetica;
   font-size:23px;
-  font-weight: bold;
+
 }
 #heading{
     background-image:url( "../images/the-flatiron-building.png");
-    color: pink;
 }
 .links{
   font-family: Helvetica;
