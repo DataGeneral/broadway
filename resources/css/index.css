@@ -29,3 +29,7 @@ h3{
   font-family: Helvetica;
   font-size: 14px;
 }
+#designed_banner{
+  background-image:url( "../images/the-flatiron-building.png");
+  color:white;
+}
